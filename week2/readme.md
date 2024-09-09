@@ -30,6 +30,6 @@ Click Here for the Website: [link](https://aadil-devtest.s3.ap-south-1.amazonaws
 1. Downloading the image from the bucket using this code          
 ![code](6.jpeg)     
 2. Uploading 
-![code-idle](2.jpeg) <br><br>
+![code-idle](2.jpeg) <br>
 ![code-idle](7.png)      
  
